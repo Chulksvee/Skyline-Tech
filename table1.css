@@ -1,0 +1,46 @@
+
+.table-main{
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    
+}
+ 
+table{
+    margin-top: 30px;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    padding: 15px;
+    border-bottom: 1px solid gray;
+
+}
+th{
+    background-color: #6a6abe;
+    color: #fff;
+    font-size: 20px;
+}
+
+.good{
+background-color: green;
+color: #fff; 
+padding: 1px; 
+border-radius: 2px;
+}
+
+.exce{
+    color: blueviolet;
+    size: 20px;
+}
+
+caption{
+    font-size: 30px;
+
+}
+.grade1{
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: #fff;
+    padding: 5px;
+}
